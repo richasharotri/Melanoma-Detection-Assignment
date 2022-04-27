@@ -1,7 +1,7 @@
 # Project Name
 >  Project Name is Melanoma-Detection-Assignment
->  github directory name : @richasharotri/Melanoma-Detection-Assignment 
->  python code file name : Melanoma-Detection-Assignment-RichaSharma.ipynb
+-  github directory name : @richasharotri/Melanoma-Detection-Assignment 
+-  python code file name : Melanoma-Detection-Assignment-RichaSharma.ipynb
 
 ## Table of Contents
 * [General Info](#general-information)
